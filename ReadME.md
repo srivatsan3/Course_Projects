@@ -10,9 +10,3 @@ Here is a list of projects I have worked on individually and as part of teams, d
 |FEM Analysis of Buckled Beams | Team | Finite Element Methods | 2nd Year |Mechanical Engineering | MATLAB | Numerical analysis of buckling is performed using Finite Element Method technique. The solution is compared with the exact analytical solution. |
 |3D Modelling | Team | Introduction to Digital Fabrication | 1st Year | Mechanical Engineering | STL | 3D Modelling of claw shape using Solid Edge framework. |
 
-
-
-
-
-
-   
