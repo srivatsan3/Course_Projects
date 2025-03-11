@@ -1,7 +1,15 @@
 Here is a list of projects I have worked on individually and as part of teams, during my Bachelor's at IIT Hyderabad.
 
-| Project | Individual/Team | Course | Degree | Code Language | Description |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|FEM Analysis of Buckled Beams | Team | Finite Element Methods | Mechanical Engineering | MATLAB | Numerical analysis of buckling is performed using Finite Element Method technique. The solution is compared with the exact analytical solution. |
+| Project | Individual/Team | Course | Year | Degree | Code Language | Description |
+| :--- | :---: | :---: | :---: | :---: | :---: |  :--- |
+|FEM Analysis of Buckled Beams | Team | Finite Element Methods | 2nd Year |Mechanical Engineering | MATLAB | Numerical analysis of buckling is performed using Finite Element Method technique. The solution is compared with the exact analytical solution. |
+|Modelling and Optimization of Horizontal Drum Washing Machine | Team | Modelling and Simulation | 3rd Year | Mechanical Engineering | MATLAB | Optimization (via Genetic Algorithm) of spring-damper system parameters in a rotating washing machine to reduce vibrations. |
+|SIR Modelling | Individual | Introduction to Data Structures | 3rd Year | Computer Science | C | COVID Disease spread analysis of a population (interconnected graph) modelled via Susceptible-Infected-Recovered Model. |
+|Parallel Greedy Graph Colouring | Individual | Operating Systems | 3rd Year | Computer Science | C++ | Using the power of Parallel computing to power a greedy algorithm to compute a suitable solution to Graph Colouring Problem |
+|3D Modelling | Team | Introduction to Digital Fabrication | 1st Year | Mechanical Engineering | STL | 3D Modelling of claw shape using Solid Edge framework. |
+
+
+
+
 
    
