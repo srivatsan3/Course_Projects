@@ -7,6 +7,10 @@ Here is a list of projects I have worked on individually and as part of teams, d
 |SIR Modelling | Individual | Introduction to Data Structures | 3rd Year | Computer Science | C | COVID Disease spread analysis of a population (interconnected graph) modelled via Susceptible-Infected-Recovered Model. |
 |Parallel Greedy Graph Colouring | Individual | Operating Systems | 3rd Year | Computer Science | C++ | Using the power of Parallel computing to power a greedy algorithm to compute a suitable solution to Graph Colouring Problem |
 |3D Modelling | Team | Introduction to Digital Fabrication | 1st Year | Mechanical Engineering | STL | 3D Modelling of claw shape using Solid Edge framework. |
+|Random Forest | Individual | Foundations of Machine Learning | 4th Year | Computer Science | Python | Random Forest from Scratch performed on Spam classifier Data. |
+|Trust Rank Algorithm | Team | Fraud Analytics | 4th Year | Computer Science | Python | An iterative algorithm that gives the probability of a web page
+being spam based on an important observation - that good web pages rarely point to bad ones. |
+
 
 
 
