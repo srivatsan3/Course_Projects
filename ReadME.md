@@ -9,4 +9,5 @@ Here is a list of projects I have worked on individually and as part of teams, d
 |Parallel Greedy Graph Colouring | Individual | Operating Systems | 3rd Year | Computer Science | C++ | Using the power of Parallel computing to power a greedy algorithm to compute a suitable solution to Graph Colouring Problem |
 |FEM Analysis of Buckled Beams | Team | Finite Element Methods | 2nd Year |Mechanical Engineering | MATLAB | Numerical analysis of buckling is performed using Finite Element Method technique. The solution is compared with the exact analytical solution. |
 |3D Modelling | Team | Introduction to Digital Fabrication | 1st Year | Mechanical Engineering | STL | 3D Modelling of claw shape using Solid Edge framework. |
+|VAE based Scene Reconstruction | Individual | Mini Project | 4th Year | Computer Science | Python | Variational Autoencoder based Latent space interpolation to construct intermittent-weather scenery images for supporting Autonomous driving database. |
 
